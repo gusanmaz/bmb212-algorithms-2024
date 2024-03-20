@@ -14,7 +14,7 @@ Bu repo'da Namık Kemal Üniversitesi BMB212 Veri Yapıları Dersi Uygulama ve �
 
 * Daha sonra https://leetcode.com/studyplan/top-interview-150/ bağlantısından seçeceğiniz 10 problemi kodlayınız.
 * Aşağıdaki ekran görüntüsünde bu sayfada hangi alt başlıklar altından problem seçebileceğinizi görebilirsiniz. Üzeri sarı çizili başlıklar altında 10 problem seçiniz.
-![top150](https://github.com/gusanmaz/bmb212-algorithms-2024/blob/main/images/leetcode-top150.png)
+![https://github.com/gusanmaz/bmb212-algorithms-2024/blob/main/images/leetcode-top150.png](https://github.com/gusanmaz/bmb212-algorithms-2024/blob/main/images/leetcode-top150.png)
 * Aynı başlık altından en fazla iki problem seçimi yapabilirsiniz.
   
 
