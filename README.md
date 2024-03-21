@@ -45,8 +45,8 @@ Bu repo'da Namık Kemal Üniversitesi BMB212 Veri Yapıları Dersi Uygulama ve �
 * Sözlü açıklamada yetersiz bulunmanız durumunda ödev puanınız düşürülebilir.
 * https://support.google.com/youtube/answer/157177?hl=tr&co=GENIE.Platform%3DDesktop#zippy=%2Cliste-d%C4%B1%C5%9F%C4%B1-videolar bağlantısındaki üzeri sarı çizili başlıklar altında zorluk derecesi
   `EASY` olan problemler sınavlarınızda soru olarak karşınıza çıkabilir. Vize sınavında sadece derste işlenen konularla, ilgili altbaşlık konusunun çakıştığı problemler soru olarak karşınıza çıkabilir.
-* Ödevlerle ve uygulama dersleri ile ilgili her türlü soru ve önerileriniz için bu repo altındaki Discussions sayfasını kullanınız.
-* Ödev gönderim kurallarını dikkatli okuyup ona göre gönderim yapınız. Ödev gönderim kurallarına uygun gönderim yapmamanız düşük puan almanıza sebep olabilir.
+* Ödevlerle ve uygulama dersleri ile ilgili her türlü soru ve önerileriniz için bu repo altındaki **Discussions** sayfasını (https://github.com/gusanmaz/bmb212-algorithms-2024/discussions) kullanınız.
+* Ödev gönderim kurallarını dikkatli okuyup ona göre gönderim yapınız. Ödev **gönderim kurallarına uygun** gönderim yapmamanız düşük puan almanıza sebep olabilir.
 * Gönderdiğiniz kodlar `otomatik` olarak değerlendirilebilir. Bu nedenle gönderdiğiniz kodların **derleme hatası** üretmediğinden emin olunuz.
 * Gönderilen tüm kodlar üzerinde `benzerlik analizi` yapılarak birbirinizden ya da başka bir kaynaktan hazır aldığınız kodlar tespit edilebilir. Bu nedenle başka sınıf arkadaşlarınızdan veya başka kaynaktan kod alıp kod gönderimi **yapmayınız**.
 * Son ödev gönderim tarihi: **26 Mayıs 2024 23:59.**
