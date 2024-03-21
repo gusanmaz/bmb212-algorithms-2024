@@ -32,6 +32,19 @@ Bu repo'da Namık Kemal Üniversitesi BMB212 Veri Yapıları Dersi Uygulama ve �
   Diğer bir deyişle problem ismindeki boşluk karekterlerini - karekteri ile değiştirerek klasörlerinizi isimlendirmeniz gerekiyor.
 * İlgili problem için yazdığınız kodları o problem için oluşturmuş olduğunuz klasörün altına yükleyiniz.
 * Reponuzdaki kök dizinde (en üst dizin) {öğrenci_no}.txt isimli dosya oluşturunuz. Öğrenci numaranız 1234 ise bu dosyanın adı 1234.txt olmalıdır. Bu dosya içine isminizi yazınız.
-
+* Kodladığınız 10 problemden istediğiniz 5'ini seçiniz. Seçtiğiniz problemleri ve yazdığınız problemleri detaylı açıklayan bir Youtube videosu çekiniz. Yazdığınız kodların leetcode testlerini
+  geçip geçemediğini göstermek için leetcode tarafından size sunulan online IDE'yi kullanınız.
+* Youtube videonuzdaki her bir problemi için ayrı bir video başlığı tanımlayınız. Bu işi nasıl yapacağınızı https://support.google.com/youtube/answer/9884579?hl=tr bağlantısından öğrenebilirsiniz.
+* Youtube videonuzun linke sahip olmayan biri tarafından keşfedilememesini istiyorsanız videonuzu 'liste dışı video' olarak tanımlayabilirsiniz. Bu konuyla ilgili https://support.google.com/youtube/answer/157177?hl=tr bağlantısından gerekli bilgiyi edinebilirsiniz.
+* Hazırladığınız video, kodları kendi başınıza yazdığınız konusunda şüphe oluşursa; yazdığınız kodları sözlü olarak açıklamanız istenebilir.
+* Gönderdiğiniz kodların kendnizin yazdığı kodlar olmadığı konusunda  bir şüphe oluşursa; yine bu kodları sözlü olarak açıklamanız istenebilir.
+* Rastgele seçilen bazı öğrencilerin gönderdikleri kodları sözlü olarak açıklaması istenebilir.
+* Sözlü açıklamada yetersiz bulunmanız durumunda ödev puanınız düşürülebilir.
+* https://support.google.com/youtube/answer/157177?hl=tr&co=GENIE.Platform%3DDesktop#zippy=%2Cliste-d%C4%B1%C5%9F%C4%B1-videolar bağlantısındaki üzeri sarı çizili başlıklar altında zorluk derecesi
+  EASY olan problemler sınavlarınızda soru olarak karşınıza çıkabilir. Vize sınavında sadece derste işlenen konularla, ilgili altbaşlık konusunun çakıştığı problemler soru olarak karşınıza çıkabilir.
+* Ödevlerle ve uygulama dersleri ile ilgili her türlü soru ve önerileriniz için bu repo altındaki Discussions sayfasını kullanınız.
+* Ödev gönderim kurallarını dikkatli okuyup ona göre gönderim yapınız. Ödev gönderim kurallarına uygun gönderim yapmamanız düşük puan almanıza sebep olabilir.
+* Son ödev gönderim tarihi: 26 Mayıs 2024 23:59.
+* Bu tarihten sonra gönderilen ödevler değerlendirmeye alınmayacaktır.
   
 
