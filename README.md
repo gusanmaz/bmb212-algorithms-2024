@@ -26,7 +26,7 @@ Bu repo'da Namık Kemal Üniversitesi BMB212 Veri Yapıları Dersi Uygulama ve �
 * İngilizceniz iyi değilse problem metinlerini anlamak için `Google Translate`, `ChatGPT` gibi araçlar kullanabilirsiniz.
 
 ### Ödev Gönderimi
-* https://classroom.github.com/classrooms/81414932-nku-gu-algs-2024 bağlatısına tıklayarak ödev davetini kabul ediniz.
+*[ https://classroom.github.com/classrooms/81414932-nku-gu-algs-2024](https://classroom.github.com/a/T1gDvbIo) bağlatısına tıklayarak ödev davetini kabul ediniz.
 * Bu linke tıklayıp, davet linkini kabul ettikten sonra Github bu ödev için size boş bir repo oluşturacaktır.
 * Bu repoda her bir çözdüğünüz problem için (`tüm dizi problemleri ve 10 adet Top Interview 150 problemi`) bir alt klasör oluşturunuz.
 * Problem ismi ile alt klasör isimleri benzerlik göstermelidir. Örneğin Merge Sorted Array problemi için oluşturacağınız klasörün adı Merge-Sorted-Array olmalıdır.
