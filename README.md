@@ -34,7 +34,7 @@ Bu repo'da Namık Kemal Üniversitesi BMB212 Veri Yapıları Dersi Uygulama ve �
 * İlgili problem için yazdığınız kodları o problem için oluşturmuş olduğunuz klasörün altına yükleyiniz.
 * Mümkünse ilgili klasör altında tek bir kaynak kodu dosyası olsun. İlgili problem için yazacağınız tüm kodları tek bir dosyada toplamaya çalışın.
 * Bu dosyayı çalıştığınız programlama diline göre `main.c` `main.java` `main.cpp` `main.go` `main.cs` olarak isimlendiriniz.
-* Reponuzdaki kök dizinde (en üst dizin) `{öğrenci_no}.txt` isimli dosya oluşturunuz. Öğrenci numaranız 1234 ise bu dosyanın adı `1234.txt` olmalıdır. Bu dosya içine isminizi yazınız.
+* Reponuzdaki kök dizinde (en üst dizin) `{öğrenci_no}.txt` isimli dosya oluşturunuz. Öğrenci numaranız 1234 ise bu dosyanın adı `1234.txt` olmalıdır. Bu dosya içine isminizi ve Youtube videonuzun linkini yaziniz.
 * Kodladığınız 10 problemden istediğiniz 5'ini seçiniz. Seçtiğiniz problemleri ve yazdığınız problemleri detaylı açıklayan bir Youtube videosu çekiniz. Yazdığınız kodların leetcode testlerini
   geçip geçemediğini göstermek için leetcode tarafından size sunulan online IDE'yi kullanınız.
 * Youtube videonuzdaki her bir problemi için ayrı bir `video başlığı` tanımlayınız. Bu işi nasıl yapacağınızı https://support.google.com/youtube/answer/9884579?hl=tr bağlantısından öğrenebilirsiniz.
